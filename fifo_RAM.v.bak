@@ -1,0 +1,5 @@
+module fifo_RAM #(parameter Asize, Dsize) (wclk_ram, in_resetn, write_data_ram, wr_en_ram,rd_en_ram, read_data_ram)
+
+
+
+endmodule 

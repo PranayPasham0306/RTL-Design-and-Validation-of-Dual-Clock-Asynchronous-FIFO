@@ -1,0 +1,23 @@
+module synchronizer #(parameter Asize = 3) (async_signal, in_resetn, dest_clk, sync_signal);
+input [Asize:0] async_signal;
+input in_resetn, dest_clk;
+output [Asize:0] sync_signal;
+
+reg intrm_sig1, intrm_sig2;
+
+assign sync_signal = intrm_sig2;
+
+always @(posedge dest_clk or negedge in_resetn) begin
+	if (!in_resetn)
+		begin
+		{intrm_sig2,intrm_sig1} <= {0,0};
+		end
+	else
+		begin
+		{intrm_sig2,intrm_sig1} <= {intrm_sig1, async_signal};
+		
+		end
+
+end
+
+endmodule 
