@@ -10,7 +10,12 @@
 
 23m1123@iitb.ac.in  
 23m1200@iitb.ac.in  
-
+<figure>
+  <img
+  src="https://github.com/PranayPasham0306/RTL-Design-and-Validation-of-Dual-Clock-Asynchronous-FIFO/blob/main/image1.png"
+  alt="The beautiful MDN logo.">
+  <figcaption>MDN Logo</figcaption>
+</figure>
 ![alt text](https://github.com/PranayPasham0306/RTL-Design-and-Validation-of-Dual-Clock-Asynchronous-FIFO/blob/main/image1.png "Naa IIT Bomaby")
 
 Indian Institute of Technology Bombay  
