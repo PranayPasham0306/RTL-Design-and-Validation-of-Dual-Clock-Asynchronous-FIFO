@@ -11,6 +11,7 @@
 23m1123@iitb.ac.in  
 23m1200@iitb.ac.in  
 
+![alt text](http://url/to/img.png)
 Indian Institute of Technology Bombay  
 02-09-2024  
 
