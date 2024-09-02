@@ -11,7 +11,7 @@
 23m1123@iitb.ac.in  
 23m1200@iitb.ac.in  
 
-![alt text](https://github.com/PranayPasham0306/RTL-Design-and-Validation-of-Dual-Clock-Asynchronous-FIFO/blob/main/image1.png)
+![alt text](https://github.com/PranayPasham0306/RTL-Design-and-Validation-of-Dual-Clock-Asynchronous-FIFO/blob/main/image1.png "Naa IIT Bomaby")
 
 Indian Institute of Technology Bombay  
 02-09-2024  
